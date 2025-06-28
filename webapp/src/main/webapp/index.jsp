@@ -5,4 +5,4 @@
 <h1> Made another change .Thankyou, perhaps this should work now and it will</h1>
 
 
-<h1> To create this and to get to this far for the last deployment, it took forever, I have been getting error for inpur service connection. the problem is the not authorizing the Azure subscription, yes I got the error for that but had to change the name as well >h1>
+<h1> To create this and to get to this far for the last deployment, it did take forever, I have been getting error for inpur service connection. the problem is the not authorizing the Azure subscription, yes I got the error for that but had to change the name as well >h1>
